@@ -4,9 +4,9 @@
 <hr>
 
 <p>
-  Hello there! :wave: My name is Lucas Scommegna and I'm a student of web software development.
+  Hello there! :wave: My name is Lucas Scommegna and I'm a student of Information Systems at UFLA. Also, I'm a Fullstack Developer and I'm working, at the moment, as a Back-End Developer Intern at CompassUOL and as Fullstack Intern at Zetta Agency.
   <br>
-  My studies are, at the moment, more focused on Front-End Development, but my plan, in the future, is to become a Full-Stack Developer. :space_invader:
+  My works are more focused in Web Development using well known Frameworks such as React, NextJS and Express.  :space_invader:
 </p>
 
 <h2>
