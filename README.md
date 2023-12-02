@@ -14,7 +14,7 @@
 </p>
 
 <h2>
-  :nerd_face: Skills:
+  🤓 Skills:
 </h2>
 <hr>
 <p float="left">
@@ -41,7 +41,7 @@
 </p>
 
 <h2>
-  :mailbox_with_mail: Reach me:
+  📬 Reach me:
 </h2>
 <hr>
 <p float="left">
