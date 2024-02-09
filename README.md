@@ -10,7 +10,7 @@
   I'm also an AWS Cloud Practitioner Certified :cloud:
   <br>
   <br>
-  My works are more focused in Web Development using well known Frameworks such as React, NextJS and Express.  :space_invader:
+  My works are more focused in Web Development using well known Frameworks such as React, NextJS and ExpressJs.  :space_invader:
 </p>
 
 <h2>
