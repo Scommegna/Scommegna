@@ -4,7 +4,7 @@
 <hr>
 
 <p>
-  Hello there! :wave: My name is Lucas Scommegna and I'm a student of Information Systems at UFLA. Also, I'm a Fullstack Developer and I'm working, at the moment, as a Backend Developer at Linx.
+  Hello there! :wave: My name is Lucas Scommegna and I'm a student of Information Systems at UFLA. Also, I'm a Fullstack Developer and I'm working, at the moment, as a Fullstack Developer at TOTVS.
   <br>
   <br>
   I'm also an AWS Cloud Practitioner Certified :cloud:
